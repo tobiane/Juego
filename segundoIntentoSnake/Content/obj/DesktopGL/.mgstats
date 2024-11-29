@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/BAUTI/Documents/GitHub/WinnieThePOOh/proyecto/segundoIntentoSnake/Content/Fonts/ArcadeFont.spritefont","C:/Users/BAUTI/Documents/GitHub/WinnieThePOOh/proyecto/segundoIntentoSnake/Content/bin/DesktopGL/Fonts/ArcadeFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,2879202
+"C:/Users/BAUTI/Documents/GitHub/WinnieThePOOh/proyecto/segundoIntentoSnake/Content/snake_assets.png","C:/Users/BAUTI/Documents/GitHub/WinnieThePOOh/proyecto/segundoIntentoSnake/Content/bin/DesktopGL/snake_assets.xnb","TextureProcessor","Texture2DContent",31311,327765,0,043714

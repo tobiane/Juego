@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B87127C-2197-4C10-8152-C36DD95D67F3}|segundoIntentoSnake\\segundoIntentoSnake.csproj|c:\\users\\tobia\\documents\\github\\snake\\proyecto\\segundointentosnake\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B87127C-2197-4C10-8152-C36DD95D67F3}|segundoIntentoSnake\\segundoIntentoSnake.csproj|solutionrelative:segundointentosnake\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B87127C-2197-4C10-8152-C36DD95D67F3}|segundoIntentoSnake\\segundoIntentoSnake.csproj|c:\\users\\tobia\\documents\\github\\snake\\proyecto\\segundointentosnake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B87127C-2197-4C10-8152-C36DD95D67F3}|segundoIntentoSnake\\segundoIntentoSnake.csproj|solutionrelative:segundointentosnake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B87127C-2197-4C10-8152-C36DD95D67F3}|segundoIntentoSnake\\segundoIntentoSnake.csproj|c:\\users\\tobia\\documents\\github\\snake\\proyecto\\segundointentosnake\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B87127C-2197-4C10-8152-C36DD95D67F3}|segundoIntentoSnake\\segundoIntentoSnake.csproj|solutionrelative:segundointentosnake\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B87127C-2197-4C10-8152-C36DD95D67F3}|segundoIntentoSnake\\segundoIntentoSnake.csproj|c:\\users\\tobia\\documents\\github\\snake\\proyecto\\segundointentosnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B87127C-2197-4C10-8152-C36DD95D67F3}|segundoIntentoSnake\\segundoIntentoSnake.csproj|solutionrelative:segundointentosnake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\segundoIntentoSnake\\Snake.cs",
+              "RelativeDocumentMoniker": "segundoIntentoSnake\\Snake.cs",
+              "ToolTip": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\segundoIntentoSnake\\Snake.cs",
+              "RelativeToolTip": "segundoIntentoSnake\\Snake.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAcwJwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:47:50.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\segundoIntentoSnake\\Program.cs",
+              "RelativeDocumentMoniker": "segundoIntentoSnake\\Program.cs",
+              "ToolTip": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\segundoIntentoSnake\\Program.cs",
+              "RelativeToolTip": "segundoIntentoSnake\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:47:48.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\segundoIntentoSnake\\Part.cs",
+              "RelativeDocumentMoniker": "segundoIntentoSnake\\Part.cs",
+              "ToolTip": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\segundoIntentoSnake\\Part.cs",
+              "RelativeToolTip": "segundoIntentoSnake\\Part.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:47:47.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\segundoIntentoSnake\\Game1.cs",
+              "RelativeDocumentMoniker": "segundoIntentoSnake\\Game1.cs",
+              "ToolTip": "C:\\Users\\tobia\\Documents\\GitHub\\Snake\\proyecto\\segundoIntentoSnake\\Game1.cs",
+              "RelativeToolTip": "segundoIntentoSnake\\Game1.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAAAPMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T22:47:46.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
